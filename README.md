@@ -11,16 +11,7 @@ Hello! I'm **Manar Kjidaa**, a dedicated developer with a passion for technology
 
 - **Interests:** Space exploration, advanced web development, and innovative technologies.
 - **Skills:** PHP, JavaScript, Python, and modern frameworks like Laravel.
-
-## Projects & Contributions
-
-### Key Projects
-- **[Project 1](https://github.com/yourusername/project1):** A cutting-edge project that addresses [describe project].
-- **[Project 2](https://github.com/yourusername/project2):** A unique solution designed for [describe project].
-
-### Open Source Contributions
-- **[Open Source Project](https://github.com/opensourceproject):** Contributed to [describe contribution].
-
+- 
 ## Professional Experience
 
 - **Company 1:** [Role] - [Year] to [Year]
