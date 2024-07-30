@@ -1,6 +1,9 @@
-# Welcome to My GitHub Profile
+<!-- Adding a full background image -->
+<img src="https://i.imgur.com/dYcYQ7E.jpg" style="width:100%; height:auto; position:absolute; top:0; left:0; z-index:-1; opacity:0.9;" alt="Space Background">
 
-![Space Banner](https://i.imgur.com/dYcYQ7E.jpg)
+<div style="position:relative; z-index:1; padding:20px;">
+
+# Welcome to My GitHub Profile
 
 ## About Me
 
@@ -44,4 +47,4 @@ Hello! I'm **Manar Kjidaa**, a dedicated developer with a passion for technology
 
 *Keep looking up!* ✨
 
-![Space Divider](https://i.imgur.com/ZOXwDsD.png)
+</div>
