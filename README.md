@@ -1,6 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Manar Kjidaa**
-
-## About Me
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Manar Kjidaa**
 
 Welcome to my GitHub profile! I'm a dedicated and passionate Full Stack Web Developer with over 2 years of experience in web development. My journey in tech is driven by curiosity, a commitment to continuous learning, and a fascination with space.
 
