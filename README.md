@@ -65,4 +65,12 @@ Creation of a school management site using WordPress.
 - **Email:** [kjidaamanar09@gmail.com](mailto:kjidaamanar09@gmail.com)
 - **Portfolio:** [www.manarkjidaa.online](http://www.manarkjidaa.online)
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manarkjidaa&show_icons=true&locale=en&layout=compact" alt="manarkjidaa" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manarkjidaa&show_icons=true&locale=en" alt="manarkjidaa" />
+</p>
+
 *Keep looking up!* ✨
