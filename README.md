@@ -69,7 +69,7 @@ Creation of a school management site using WordPress.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manarkjidaa&show_icons=true&locale=en&layout=compact" alt="manarkjidaa" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah-bounafaa&" alt="abdellah-bounafaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manarkjidaa&" alt="manarkjidaa" /></p>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manarkjidaa&show_icons=true&locale=en" alt="manarkjidaa" />
